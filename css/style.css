@@ -244,8 +244,11 @@ img {
     background: #F4F4FD;
     border-radius: 4px;
     display: flex;
+    justify-content: center;
+    align-items: center;
     margin-bottom: 8px;
-    padding: 24px 100px;
+    width: 264px;
+    height: 112px;
 }
 .about-icon {
     
